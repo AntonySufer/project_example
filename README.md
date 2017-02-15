@@ -4,6 +4,5 @@
 ![img](https://github.com/AntonySufer/project_example/blob/master/githubImg/2.jpg)
 ![img](https://github.com/AntonySufer/project_example/blob/master/githubImg/3.png)
 ![img](https://github.com/AntonySufer/project_example/blob/master/githubImg/4.png)
-![img](https://github.com/AntonySufer/project_example/blob/master/githubImg/5.png)
 ![img](https://github.com/AntonySufer/project_example/blob/master/githubImg/6.png)
 ![img](https://github.com/AntonySufer/project_example/blob/master/githubImg/7.png)
