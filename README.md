@@ -9,7 +9,9 @@
 ![img](https://github.com/AntonySufer/project_example/blob/master/githubImg/7.png)   
 ##################################################################################
 ##################################################################################
-2.华林证券-微证券（云投顾&模拟炒股）
+2.华林证券-微证券（云投顾&模拟炒股）  
+项目技术：andorid+H5+css3+es5+jquery+ajax++sea.js+scroll.js插件+highcharts插，对接微博api   
+
 ![img](https://github.com/AntonySufer/project_example/blob/master/githubImg/hualin/1.png）
 ![img](https://github.com/AntonySufer/project_example/blob/master/githubImg/hualin/2.png）
 ![img](https://github.com/AntonySufer/project_example/blob/master/githubImg/hualin/3.png)
