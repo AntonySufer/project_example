@@ -21,7 +21,7 @@
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&<br/>
 ##################################################################################
 3.模拟炒股大赛 华林证券&苏宁证券&山西证券&浙江证券等<br/>
-项目技术：andorid+H5+css3+es5+jquery+ajax++sea.js+scroll.js插件+highcharts插，对接微博api<br/>
+项目技术：andorid+H5+css3+es5+jquery+ajax++sea.js+scroll.js插件+highcharts插，对接微博api<br/><br/>
 ![img](https://github.com/AntonySufer/project_example/blob/master/githubImg/chaogu/1.png)
 ![img](https://github.com/AntonySufer/project_example/blob/master/githubImg/chaogu/2.png)
 ![img](https://github.com/AntonySufer/project_example/blob/master/githubImg/chaogu/3.png)
